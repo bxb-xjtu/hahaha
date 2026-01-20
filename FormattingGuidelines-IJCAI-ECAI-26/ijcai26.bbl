@@ -1,0 +1,38 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Chen \bgroup \em et al.\egroup }{2023}]{chen:2023:chatcot}
+Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne~Xin Zhao, and Ji-Rong Wen.
+\newblock Chatcot: Tool-augmented chain-of-thought reasoning on chat-based large language models.
+\newblock In {\em arXiv preprint arXiv:2305.14323}, 2023.
+
+\bibitem[\protect\citeauthoryear{Liu \bgroup \em et al.\egroup }{2024}]{liu:2023:dylan}
+Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, and Diyi Yang.
+\newblock Dynamic llm-powered agent network for task-oriented agent collaboration.
+\newblock In {\em Proceedings of the 1st Conference on Language Modeling (COLM)}, 2024.
+
+\bibitem[\protect\citeauthoryear{Pan \bgroup \em et al.\egroup }{2023}]{pan:2023:logiclm}
+Liangming Pan, Alon Albalak, Xinyi Wang, and William~Yang Wang.
+\newblock Logic-lm: Empowering large language models with symbolic solvers for faithful logical reasoning.
+\newblock In {\em Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 2023.
+
+\bibitem[\protect\citeauthoryear{Sun \bgroup \em et al.\egroup }{2024}]{sun:2024:ruleeval}
+Wangtao Sun, Chenxiang Zhang, Xueyou Zhang, Xuanqing Yu, Ziyang Huang, Haotian Xu, Pei Chen, Shizhu He, Jun Zhao, and Kang Liu.
+\newblock Beyond instruction following: Evaluating inferential rule following of large language models.
+\newblock In {\em arXiv preprint arXiv:2407.08440}, 2024.
+
+\bibitem[\protect\citeauthoryear{Wang \bgroup \em et al.\egroup }{2023}]{wang:2023:counterfactual}
+Bailin Wang, Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Aky{\"u}rek, Najoung Kim, Jacob Andreas, and Yoon Kim.
+\newblock Reasoning or reciting? exploring the capabilities and limitations of language models through counterfactual tasks.
+\newblock In {\em arXiv preprint arXiv:2307.02477}, 2023.
+
+\bibitem[\protect\citeauthoryear{Wen \bgroup \em et al.\egroup }{2024}]{wen:2024:complexbench}
+Bosi Wen, Pei Ke, Xiaotao Gu, Lindong Wu, Hao Huang, Jinfeng Zhou, Wenchuang Li, Binxin Hu, Wendy Gao, Jiaxin Xu, et~al.
+\newblock Benchmarking complex instruction-following with multiple constraints composition.
+\newblock In {\em Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS)}, 2024.
+
+\bibitem[\protect\citeauthoryear{Xu \bgroup \em et al.\egroup }{2024}]{xu:2023:wizardlm}
+Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu~Zhao, Jiazhan Feng, Chongyang Tao, Qingwei Lin, and Daxin Jiang.
+\newblock Wizardlm: Empowering large pre-trained language models to follow complex instructions.
+\newblock In {\em International Conference on Learning Representations (ICLR)}, 2024.
+
+\end{thebibliography}
